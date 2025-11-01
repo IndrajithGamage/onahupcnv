@@ -8,7 +8,7 @@ This repository contains a Google Colab notebook for high-quality, high-speed vi
 
 ## 🚀 How to Use
 
-1.  **Mount Google Drive:** The notebook needs to access your files. The first step is to run the cell to mount your Google Drive.
+1.  **Mount Google Drive:** The notebook needs to access your files. When running the cell, provide access to mount your Google drive. This is completely safe and private. 
 2.  **Set File Paths:** Update the `input_file` and `output_file` variables to point to your video.
 3.  **Choose Settings:** Use the interactive form to select your desired encoder, resolution, and quality (CRF or Bitrate).
 4.  **Run:** Run the main cell to start the conversion. Progress will be displayed below the cell.
@@ -43,4 +43,5 @@ This repository contains a Google Colab notebook for high-quality, high-speed vi
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
