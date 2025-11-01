@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IndrajithGamage/onahupcnv/blob/main/OnaHuptak_Convert.ipynb)
+
 # Indrajith Video Converter for Google Colab
 
 This repository contains a Google Colab notebook for high-quality, high-speed video conversion using `ffmpeg`. It provides a simple user interface to control complex `ffmpeg` settings for encoding, scaling, and watermarking.
@@ -41,3 +43,4 @@ This repository contains a Google Colab notebook for high-quality, high-speed vi
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
